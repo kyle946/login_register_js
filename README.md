@@ -3,5 +3,5 @@
  * 
  * 码砖不易，使用时请保留作者姓名和联系方式。
  * 
- * 作者 ： 青竹丹枫  316686606@qq.com , weixin: xianglou , http://blog.yixinu.com/
+ * email: kyle946@163.com
 
