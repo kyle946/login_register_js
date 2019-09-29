@@ -4,8 +4,7 @@
  * 
  * 码砖不易，使用时请保留作者姓名和联系方式。
  * 
- * @author 青竹丹枫  316686606@qq.com , weixin: xianglou , http://blog.yixinu.com/
- * @link http://blog.yixinu.com/ 
+ * @author email: kyle946@163.com
  * @version 1.0
  * @type type
  */
